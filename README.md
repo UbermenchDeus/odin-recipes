@@ -1,2 +1,3 @@
-# landing-page
-getting my html grinders
+# Odin Recipes
+
+This repo contains html files for odins recipe
